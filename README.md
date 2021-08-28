@@ -1,5 +1,5 @@
 #  Listado de Personas
-View list of people and add people with Javascript, HTML5 and CSS3.
+View list of people and add people with Javascript, HTML5 and CSS3. Dynamic Content using DOM methods.
 
 <!-- Video -->
 ## Video
